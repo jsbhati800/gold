@@ -9,6 +9,7 @@ public class GoldApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GoldApplication.class, args);
 		System.out.println("Hiiiiii");
+		System.out.println("This is new Change");
 	}
 
 }
