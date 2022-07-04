@@ -12,6 +12,7 @@ public class GoldApplication {
 		System.out.println("This is new Change");
 		System.out.println("This is another change");
 		System.out.println("changes by js ");
+		System.out.println("This is again changes");
 	}
 
 }
